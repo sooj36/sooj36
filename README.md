@@ -1,7 +1,7 @@
--------
-### *"I consider the ability to instantly view my output from anywhere as a major appeal in app development."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hi,itsme,sooj👋&fontSize=50" />
+
+### *"I consider the ability to instantly view my output from anywhere as a major appeal in app development."*
 
 
 ## :deciduous_tree: Skills
