@@ -1,9 +1,10 @@
+-------
 ### *"I consider the ability to instantly view my output from anywhere as a major appeal in app development."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hi,itsme,sooj👋&fontSize=50" />
 
 
-## Skills
+## :deciduous_tree: Skills
 ### Platforms & Languages & Tools
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=whitee"/></a>
@@ -15,7 +16,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooj36)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-## SNS & Blog
+
+## :mailbox_with_mail: SNS & Blog
 
 <a href="sooj2023@gmail.com"><img src="https://img.shields.io/badge/sooj2023@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
 <a href="sooj36_@naver.com"><img src="https://img.shields.io/badge/sooj36_@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
