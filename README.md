@@ -1,10 +1,9 @@
 ### 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sooj&fontSize=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi! It's me SOOJ👋&fontSize=50" />
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=whitee"/></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sooj36&theme=dark&mode=weekly&card_width=479)](https://git.io/streak-stats)
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
