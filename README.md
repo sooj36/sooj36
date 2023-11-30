@@ -1,7 +1,7 @@
+### *"I consider the ability to instantly view my output from anywhere as a major appeal in app development."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=itsmesooj👋&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=hi,itsme,sooj👋&fontSize=50" />
 
-#### *"I consider the ability to instantly view my output from anywhere as a major appeal in app development."*
 
 ## Skills
 ### Platforms & Languages & Tools
@@ -11,10 +11,18 @@
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sooj36)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
-## SNS
-#EA4335
+## SNS & Blog
+
+<a href="sooj2023@gmail.com"><img src="https://img.shields.io/badge/sooj2023@gmail.com-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
+<a href="sooj36_@naver.com"><img src="https://img.shields.io/badge/sooj36_@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+
+<a href="sooj36.github.io"><img src="https://img.shields.io/badge/Github.io-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="https://velog.io/@sooj23"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+
 <!--
 **sooj36/sooj36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
