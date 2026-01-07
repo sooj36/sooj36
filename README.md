@@ -1,4 +1,3 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -15,4 +14,5 @@
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
 
