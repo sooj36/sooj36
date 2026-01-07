@@ -13,6 +13,6 @@
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=75&section=header&text=Android&fontSize=35)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
